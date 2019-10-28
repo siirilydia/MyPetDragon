@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peli", "Peli\Peli.csproj", "{478A5595-4ADD-41A6-89F7-82266E90C46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliTests", "PeliTests\PeliTests.csproj", "{DE7259DA-4341-4021-BFD5-10C0FB7AE8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478A5595-4ADD-41A6-89F7-82266E90C46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478A5595-4ADD-41A6-89F7-82266E90C46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478A5595-4ADD-41A6-89F7-82266E90C46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478A5595-4ADD-41A6-89F7-82266E90C46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7259DA-4341-4021-BFD5-10C0FB7AE8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7259DA-4341-4021-BFD5-10C0FB7AE8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7259DA-4341-4021-BFD5-10C0FB7AE8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7259DA-4341-4021-BFD5-10C0FB7AE8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB03B938-D02C-4632-86F1-73E931B9FBC0}
+	EndGlobalSection
+EndGlobal
