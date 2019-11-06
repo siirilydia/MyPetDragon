@@ -13,3 +13,8 @@ on your trail in the minigame. The game will work without it as well, the trail 
 of extra cuteness to it.
 
 Overall this was a fun project to do. It also made me realize that I want to work in the game industry.
+
+Frequently heard:
+
+"Poison mushrooooooooms"
+"Take candy from the stranger? Sure!"
