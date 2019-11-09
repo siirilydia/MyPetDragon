@@ -14,6 +14,9 @@ of extra cuteness to it.
 
 Overall this was a fun project to do. It also made me realize that I want to work in the game industry.
 
+Video of the game:
+https://youtu.be/TTxCIdz3Pq4
+
 Frequently heard:
 
 "Poison mushrooooooooms"
